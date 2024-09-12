@@ -6,5 +6,5 @@ Przemysław Szufel
 - Importing other types: CSV, JSON, Microsoft Excel, Apache Arrow
 
 Notebooks:
-- [Data_Analysis_2024_Aberdeen.ipynb](Data_Analysis_2024_Aberdeen.ipynb)
-- [Input_Data_CSV_JSON_XLSX_Aberdeen.ipynb](Input_Data_CSV_JSON_XLSX_Aberdeen.ipynb)
+- [Data_Analysis_2024_Krakow.ipynb](Data_Analysis_2024_Krakow.ipynb)
+- [Input_Data_CSV_JSON_XLSX_Krakow.ipynb](Input_Data_CSV_JSON_XLSX_Krakow.ipynb)
